@@ -2,7 +2,3 @@ __pycache__/
 *.pyc
 .env
 captures/
-__pycache__/
-*.pyc
-.env
-*~
