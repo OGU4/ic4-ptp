@@ -2,7 +2,7 @@
 import os, time, datetime, gc
 import imagingcontrol4 as ic4
 
-SAVE_DIR   = "captures"
+SAVE_DIR   = "~/data/ic4-ptp/captures"
 DELAY_SEC  = 10.0                # seconds from now to fire the action
 PIXFORMAT  = ic4.PixelFormat.BGR8
 
