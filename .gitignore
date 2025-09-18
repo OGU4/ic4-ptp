@@ -26,8 +26,3 @@ Thumbs.db
 
 # Backup/temporary files
 *~
-
-__pycache__/
-*.pyc
-.env
-captures/
